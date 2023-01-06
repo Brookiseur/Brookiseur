@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 # Presentation
 
 My name is Jacques Brenner, I am 35 years old. 
@@ -10,4 +8,4 @@ I needed to find passion in my work. The technical and creative side of this pro
 
 # Technology / language :
 
-<i class="devicon-symfony-original-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" />
