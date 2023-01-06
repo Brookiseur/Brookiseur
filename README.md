@@ -12,4 +12,4 @@ I needed to find passion in my work. The technical and creative side of this pro
 </svg>
 
 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" />
+<img width="50px" color="#1A171B" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" />
