@@ -41,3 +41,6 @@ I am currently looking for an unpaid internship from February 6th to April 4th
  &nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
+
+# Stats 
+![GHstats](https://github-readme-stats.vercel.app/api?username=Brookiseur&show_icons=true)
