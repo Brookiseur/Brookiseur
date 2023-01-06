@@ -10,5 +10,5 @@ I needed to find passion in my work. The technical and creative side of this pro
 
 # Technology / language :
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<img  width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
