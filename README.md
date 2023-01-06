@@ -7,6 +7,5 @@ I needed to find passion in my work. The technical and creative side of this pro
 # Contact
 
 # Technology / language :
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
           
