@@ -12,9 +12,6 @@ I am currently looking for an unpaid internship from February 6th to April 4th
 [<img  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/jacques-brenner-68a90a114/) 
  &nbsp;
  &nbsp;
-[<img  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />](https://www.facebook.com/jacques.brenner/)
- &nbsp;
- &nbsp;
 [<img width="50px" src="https://user-images.githubusercontent.com/67544722/211013731-85ff1111-3792-4107-8133-a0fff2fbe8da.png"/>](https://jacques-brenner.fr)
 </div>
 
